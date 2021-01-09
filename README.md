@@ -3,15 +3,15 @@
 <p align="center">
 <a href="https://github.com/BennyJane">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BennyJane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BennyJane&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BennyJane&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;My Project
 
 <p align="center">
-  <a href="mailto:mazdakpak@icloud.com">Email</a>
+  <a http://pygorun.com/">Blog</a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/its_mazdak">Instagram</a>
+  <a href="http://career.pygorun.com">Career-Plan-Info</a>
 
 </p>
