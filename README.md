@@ -9,7 +9,7 @@
 
 ### 🤝🏻 &nbsp;My Project
 
-<p align="center">
+<p align="left">
   <a href="http://pygorun.com/">Blog</a>
   &nbsp;&nbsp;
   <a href="http://career.pygorun.com">Career-Plan-Info</a>
