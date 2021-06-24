@@ -7,11 +7,11 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;My Project
+### 🤝🏻 &nbsp;My Info
 
 <p align="left">
   <a href="http://pygorun.com/">Blog</a>
   &nbsp;&nbsp;
-  <a href="http://career.pygorun.com">Career-Plan-Info</a>
+  <a href="https://leetcode-cn.com/u/bennyjane/">LeetCode</a>
 
 </p>
