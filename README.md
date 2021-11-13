@@ -10,8 +10,5 @@
 ### 🤝🏻 &nbsp;My Info
 
 <p align="left">
-  <a href="http://pygorun.com/">Blog</a>
-  &nbsp;&nbsp;
   <a href="https://leetcode-cn.com/u/bennyjane/">LeetCode</a>
-
 </p>
